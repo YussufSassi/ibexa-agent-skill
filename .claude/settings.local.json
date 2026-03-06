@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(/opt/homebrew/bin/python3:*)",
-      "WebFetch(domain:github.com)"
-    ]
-  }
-}
