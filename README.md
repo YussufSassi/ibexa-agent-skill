@@ -7,7 +7,7 @@ Works with all editions (Headless, Experience, Commerce) and covers the PHP API,
 ## Install
 
 ```bash
-claude plugin add https://github.com/YussufSassi/ibexa-agent-skill
+/plugin marketplace add YussufSassi/ibexa-agent-skill
 ```
 
 or 
