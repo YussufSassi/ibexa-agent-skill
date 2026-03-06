@@ -1,0 +1,33 @@
+{
+  "name": "ibexa-dxp",
+  "owner": {
+    "name": "Yussuf Sassi"
+  },
+  "metadata": {
+    "description": "Claude Code skills for Ibexa DXP development — content management, PHP API, migrations, SiteAccess, templating, commerce, PIM, search, and more.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ibexa-dxp",
+      "description": "Expert Ibexa DXP (formerly eZ Platform) development assistant. Covers the full framework: PHP Repository API, content types, field types, search, data migrations, SiteAccess multisite config, Twig templating, Page Builder, PIM, commerce cart/orders, permissions, events, workflow, and extensibility patterns.",
+      "source": "./",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": [
+        "ibexa",
+        "ibexa-dxp",
+        "ez-platform",
+        "cms",
+        "php",
+        "symfony",
+        "content-management",
+        "commerce",
+        "pim"
+      ],
+      "category": "frameworks",
+      "strict": false,
+      "skills": ["./skills/ibexa-dxp"]
+    }
+  ]
+}
